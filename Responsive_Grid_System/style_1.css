@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.col {
+    text-align: center;
+    background-color: #ccc;
+    background-clip: content-box;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  .item {
+    margin-top: 16px;
+    font-size: 40px;
+    color: #fff;
+    min-height: 380px;
+    line-height: 380px;
+    background-color: orange;
+  }
